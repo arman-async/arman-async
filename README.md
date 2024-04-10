@@ -1,12 +1,12 @@
 <!--Title @bastndev-->
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋;I'm+from+Iran'm+17+years+old;my+name+is+Alireza(arman);Welcome!) 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋;I'm+from+Iran'm+17+years+old;my+name+is+Alireza(arman-async);Welcome!) 
 
-### Hello, my name is Alireza(arman)! :shipit:
+### Hello, my name is Alireza (Arman-async)! :shipit:
 
 [![GitHub](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/alireza01100011)
 
 
-Welcome to my GitHub page! I'm Alireza {Arman} and I'm currently finishing high school
+Welcome to my GitHub page! I'm Alireza {Arman-async} and I'm currently finishing high school
 
 
 #### 🌱 Things I'm currently working on:
