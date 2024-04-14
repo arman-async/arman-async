@@ -23,24 +23,24 @@ Welcome to my GitHub page! I'm Alireza {Arman-async} and I'm currently finishing
   <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=arman-async&show_icons=true&hide_border=true" />
 
   <div>
-  <code><a width="10%" href="https://python.org"><img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code><a width="10%" href="https://flask.palletsprojects.com/"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
-  <code><a width="10%" href="https://www.docker.com"><img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+  <code><a width="10%" href="https://python.org"><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <code><a width="10%" href="https://flask.palletsprojects.com/"><img width="10%"  src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
+  <code><a width="10%" href="https://www.docker.com"><img width="10%"  src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
   <br />
 
-  <code><a width="10%" href="https://redis.io"><img src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></a></code>
-  <code><a width="10%" href="https://sqlite.org"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
-  <code><a width="10%" href="https://code.visualstudio.com/"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+  <code><a width="10%" href="https://redis.io"><img width="10%"  src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></a></code>
+  <code><a width="10%" href="https://sqlite.org"><img width="10%"  src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
+  <code><a width="10%" href="https://code.visualstudio.com/"><img width="10%"  src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
   <br />
   
-  <code><a width="10%" href="https://mysql.com"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><a width="10%" href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><a width="10%" href="https://vim.org"><img src="https://www.vectorlogo.zone/logos/vim/vim-ar21.svg"></code>
+  <code><a width="10%" href="https://mysql.com"><img width="10%"  src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><a width="10%" href="https://git-scm.com/"><img width="10%"  src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><a width="10%" href="https://vim.org"><img width="10%"  src="https://www.vectorlogo.zone/logos/vim/vim-ar21.svg"></code>
   <br />
   <hr />
-  <code><a width="10%" href="https://nginx.org"><img src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
-  <code><a width="10%" href="https://linux.org"><img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
-  <code><a width="10%" href="https://javascript.info/"><img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+  <code><a width="10%" href="https://nginx.org"><img width="10%"  src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
+  <code><a width="10%" href="https://linux.org"><img width="10%"  src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+  <code><a width="10%" href="https://javascript.info/"><img width="10%"  src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 
   </div>
  
