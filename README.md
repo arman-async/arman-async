@@ -10,7 +10,8 @@ Welcome to my GitHub page! I'm Alireza {Arman-async} and I'm currently finishing
 
 
 #### 🌱 Things I'm currently working on:
-  - Finishing high school.
+  - Preparing for college.
+  - Becoming a full stack developer.
   - Advanced study of Python programming language.
   - Development of web applications.
   - Linux operating system.
