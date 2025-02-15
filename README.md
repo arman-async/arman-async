@@ -21,7 +21,7 @@ Welcome to my GitHub page! I'm Alireza {Arman-async} and I'm currently software 
 #### :computer:Programming Languages: 
 <a width="20%" href="https://python.org"><img width="20%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
 
-#### :toolbox: Python Libraries & Frameworks:
+#### :toolbox: Essential Python Libraries & Frameworks:
 <a width="10%" href="https://flask.palletsprojects.com/"><img width="10%" src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg">
 <a width="10%" href="https://fastapi.tiangolo.com/"><img width="10%" src="https://github.com/user-attachments/assets/06abc5d5-485e-4933-9722-032aba3b109c"></a>
 <a width="10%" href="https://www.sqlalchemy.org"><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/SQLAlchemy.svg/512px-SQLAlchemy.svg.png">
