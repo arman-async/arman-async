@@ -26,8 +26,10 @@ Welcome to my GitHub page! I'm Alireza {Arman-async} and I'm currently software 
 <a width="10%" href="https://fastapi.tiangolo.com/"><img width="10%" src="https://github.com/user-attachments/assets/06abc5d5-485e-4933-9722-032aba3b109c"></a>
 <a width="10%" href="https://www.sqlalchemy.org"><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/SQLAlchemy.svg/512px-SQLAlchemy.svg.png">
 <a width="10%" href="https://docs.pytest.org/en/stable/"><img width="10%" src="https://www.vectorlogo.zone/logos/pytest/pytest-ar21~bgwhite.svg">
+<a width="10%" href="https://docs.pydantic.dev/latest/"><img width="5%" src="https://github.com/user-attachments/assets/c3401787-7caa-41d7-be55-0e36a0062173">
 <a href="https://doc.qt.io/qtforpython-6/"><img width="10%" src="https://www.logo.wine/a/logo/PyQt/PyQt-Logo.wine.svg"></a>
 <a href="https://docs.celeryq.dev/en/stable/"><img width="10%" src="https://github.com/user-attachments/assets/efb49ccc-e2fb-4ae2-a072-58837d2a87bf"></img></a>
+
 
 
 #### :file_cabinet: Data Management Systems:
