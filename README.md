@@ -6,17 +6,17 @@
 [![GitHub](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/alireza01100011)
 
 
-Welcome to my GitHub page! I'm Alireza {Arman-async} and I'm currently finishing high school
+Welcome to my GitHub page! I'm Alireza {Arman-async} and I'm currently software engineering student
 
 
 #### 🌱 Things I'm currently working on:
-  - Preparing for college.
+  - Student at [Shahab Danesh University](https://shdu.ac.ir/), Software Engineering.
   - Becoming a full stack developer.
   - Advanced study of Python programming language.
-  - Development of web applications.
-  - Linux operating system.
-  - software engineering .
-  - Working on automation projects 🚀
+  - Development of web applications (Flask, FastAPI).
+  - Linux operating system (Learning LPIC-2).
+  - software engineering (Design Patterns & Software Architecture) .
+  
 
 #### :computer:Programming languages and tools: 
 <p>
@@ -41,7 +41,6 @@ Welcome to my GitHub page! I'm Alireza {Arman-async} and I'm currently finishing
   <hr />
   <code><a width="10%" href="https://nginx.org"><img width="10%"  src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
   <code><a width="10%" href="https://linux.org"><img width="10%"  src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
-  <code><a width="10%" href="https://javascript.info/"><img width="10%"  src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 
   </div>
  
