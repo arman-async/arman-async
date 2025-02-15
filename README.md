@@ -25,20 +25,27 @@ Welcome to my GitHub page! I'm Alireza {Arman-async} and I'm currently software 
 
   <div>
   <code><a width="10%" href="https://python.org"><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code><a width="10%" href="https://flask.palletsprojects.com/"><img width="10%"  src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
-  <code><a width="10%" href="https://www.docker.com"><img width="10%"  src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+  <code><a width="10%" href="https://fastapi.tiangolo.com/"><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/FastAPI_logo.svg/512px-FastAPI_logo.svg.png?20240902201856"></a></code>
+  <code><a width="10%" href="https://flask.palletsprojects.com/"><img width="10%" src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg"></code>
   <br />
 
   <code><a width="10%" href="https://redis.io"><img width="10%"  src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></a></code>
   <code><a width="10%" href="https://sqlite.org"><img width="10%"  src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
-  <code><a width="10%" href="https://code.visualstudio.com/"><img width="10%"  src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
-  <br />
+  <code><a width="10%" href="https://www.sqlalchemy.org"><img width="10%"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/SQLAlchemy.svg/512px-SQLAlchemy.svg.png"></code>
   
-  <code><a width="10%" href="https://mysql.com"><img width="10%"  src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <br />
+  <code>
+    <a width="10%" href="https://doc.qt.io/qtforpython-6/"><img width="10%" src="https://www.logo.wine/a/logo/PyQt/PyQt-Logo.wine.svg"></a>
+  </code>
+  
+  <br />  
+  <code><a width="10%" href="https://code.visualstudio.com/"><img width="10%"  src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
   <code><a width="10%" href="https://git-scm.com/"><img width="10%"  src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><a width="10%" href="https://vim.org"><img width="10%"  src="https://www.vectorlogo.zone/logos/vim/vim-ar21.svg"></code>
+  
   <br />
   <hr />
+  <code><a width="10%" href="https://www.docker.com"><img width="10%"  src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
   <code><a width="10%" href="https://nginx.org"><img width="10%"  src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
   <code><a width="10%" href="https://linux.org"><img width="10%"  src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
 
