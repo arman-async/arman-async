@@ -10,7 +10,7 @@ Welcome to my GitHub page! I'm Alireza {Arman-async} and I'm currently software 
 
 
 #### 🌱 Things I'm currently working on:
-  - Student at [Shahab Danesh University](https://shdu.ac.ir/), Software Engineering.
+  - Student at, Software Engineering.
   - Becoming a full stack developer.
   - Advanced study of Python programming language.
   - Development of web applications (Flask, FastAPI).
