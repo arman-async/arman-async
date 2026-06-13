@@ -1,7 +1,7 @@
 <!--Title @bastndev-->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋;I'm+from+Iran'm+20+years+old;my+name+is+Alireza(arman-async);Welcome!) 
 
-### Hello, my name is Alireza (Arman-async)! :shipit:
+### Hello, my name is Alireza (Arman-async)! 🦁
 
 [![GitHub](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/alireza01100011)
 
